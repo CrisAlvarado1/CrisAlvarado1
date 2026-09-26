@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Cristopher Alvarado
 
-<!--
-**CrisAlvarado1/CrisAlvarado1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ingeniero de Software | Software Engineer
 
-Here are some ideas to get you started:
+Ingeniero de Software enfocado en el desarrollo de soluciones backend, procesamiento de datos y automatización de procesos. Me interesa construir software mantenible, escalable y respaldado por buenas prácticas de ingeniería.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente trabajo principalmente con **.NET, C#, PostgreSQL, Python y AWS**, participando en el desarrollo y mantenimiento de APIs, aplicaciones empresariales y procesos de integración y procesamiento de datos.
+
+## Tecnologías
+
+`C#` · `.NET` · `Python` · `PostgreSQL` · `SQL` · `AWS` · `Git` · `REST APIs`
+
+## Enfoque
+
+- Backend y diseño de APIs
+- Procesamiento y análisis de datos
+- Automatización de procesos
+- Clean Architecture y principios SOLID
+- Calidad, mantenibilidad y buenas prácticas de desarrollo
+
+---
+
+**Ingeniería de Software · Costa Rica 🇨🇷**
